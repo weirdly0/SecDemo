@@ -7,6 +7,6 @@
   <ItemGroup>
     <!-- Old versions with known advisories: Dependabot will flag them -->
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 </Project>
